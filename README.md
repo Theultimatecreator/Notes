@@ -22,11 +22,11 @@ Create notes, edit them and delet them. Write down important this in this app.
 
 🛠️ Technologies   
 
-Compose - for awesome ui and better performance than xml.                                               
-Coroutines - for asyncronous programming.                                                
-Room - for saving offline data.                                                                                         
-MVI - for clear codeing and pattern.                                                                                               
-Multi moduling- for clean Architecture.  
+**Compose** - for awesome ui and better performance than xml.                                               
+**Coroutines** - for asyncronous programming.                                                
+**Room** - for saving offline data.                                                                                         
+**MVI** - for clear codeing and pattern.                                                                                               
+**Multi moduling** - for clean Architecture.  
 
 #
 
